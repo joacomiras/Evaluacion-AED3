@@ -1,5 +1,5 @@
 # Evaluacion AED3
-Leer con atención el README, teniendo en cuenta la condición de entrega. De no cumplirse esto, la entrega será inválida y se evaluará con un  1 (uno).
+Leer con atención el README, teniendo en cuenta la condición de entrega. De no cumplirse esto, la entrega será inválida y se evaluará con un 1 (uno). Tendrán todo lo necesario para resolver esta evaluación en este mismo repositorio, por lo que las búsquedas en la Web estarán completamente prohibidas.
 
 # Metodología
 Esta evaluación es un tanto particular como se darán cuenta. La misma consiste en realizar una librería para una pantalla LCD 20x4 (datasheet adjuntado en repositorio). Cada función que deban crear estará especificada tambien con su nombre, pero el tipo lo deberán determinar ustedes. 
@@ -27,3 +27,4 @@ Al finalizar la clase (a eso de las 17hs), se habilitará el uso de internet par
 * Utilizar *define* para todos los comandos, modos y/o pines utilizados, especificando en su nombre lo que hace y siempre en mayúscula.
 * Cada función valdrá un punto. Los puntos restantes los darán la prolijidad y su habilidad para programar.
 * Librería que esté completamente desordenada penalizará más de dos puntos, por lo que podría ser causante de desaprobación.
+* La DDRAM de la pantalla es donde se reciben los datos.
