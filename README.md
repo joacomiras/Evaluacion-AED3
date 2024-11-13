@@ -28,4 +28,4 @@ Al finalizar la clase (a eso de las 17hs), se habilitará el uso de internet par
 * Cada función valdrá un punto. Los puntos restantes los darán la prolijidad y su habilidad para programar.
 * Librería que esté completamente desordenada penalizará más de dos puntos, por lo que podría ser causante de desaprobación.
 * La DDRAM de la pantalla es donde se reciben los datos.
-* Si las compus llegan a tener Windows 7 descargar el siguiente VsCode: https://update.code.visualstudio.com/1.70.2/win32-x64-user/stable 
+* Si las compus llegan a tener Windows 7 descargar el siguiente VSCode: https://update.code.visualstudio.com/1.70.2/win32-x64-user/stable 
