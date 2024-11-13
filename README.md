@@ -1,5 +1,5 @@
 # Evaluacion AED3
-Leer con atención el README, teniendo en cuenta la condición de entrega. De no cumplirse esto, la entrega será inválida y se evaluará con un 1 (uno). Tendrán todo lo necesario para resolver esta evaluación en este mismo repositorio, por lo que las búsquedas en la Web estarán completamente prohibidas.
+Leer con atención teniendo en cuenta la condición de entrega y cada punto detallado. De no cumplirse esto, la entrega será inválida y se evaluará con un 1 (uno). Tendrán todo lo necesario para resolver esta evaluación en este mismo repositorio, por lo que las búsquedas en la Web estarán completamente prohibidas. Sin nada más que agregar les deseo suerte y éxitos (espero) 😇
 
 # Metodología
 Esta evaluación es un tanto particular como se darán cuenta. La misma consiste en realizar una librería para una pantalla LCD 20x4 (datasheet adjuntado en repositorio). Cada función que deban crear estará especificada tambien con su nombre, pero el tipo lo deberán determinar ustedes. 
